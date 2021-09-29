@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  
+}
+
+.serach-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content:  center;
+  align-items: center;
+  
+}
+
+.search-bar{
+  width: 50%;
+  border :none;
+  padding :10px;
+  box-shadow:  5px 5px 5px rgb(201, 200, 200);;
+}
+
+.search-button{
+  background :rgb(0, 0, 0);
+  border:none;
+  padding:10px 20px;
+  color:white;
+  box-shadow:  5px 5px 5px rgb(201, 200, 200);;
+
+
+}
+
+.recipes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

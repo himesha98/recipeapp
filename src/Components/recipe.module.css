@@ -1,0 +1,77 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow:  0px 25px 40px rgb(71,71,71);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background :white;
+    align-items: center;
+    min-width: 40%;
+
+}
+
+.image{
+    
+    width: 180px;
+    height: 180px;
+    
+}
+
+.title{
+    font-size: 28px;
+    text-align: center;
+    color: rgb(189, 2, 2);
+    
+}
+
+.meal{
+    font-size: 18px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background:rgb(253, 253, 253);
+    text-transform: capitalize;
+    font-weight: bold;
+
+
+
+
+}
+
+.cuisine{
+    font-size: 22px;
+    text-align: center;
+    color:rgb(0, 0, 0);
+    text-transform: capitalize;
+
+}
+.card{
+    box-shadow:  0px 2px 5px rgb(71,71,71);
+
+}
+
+.diet{
+    font-size: 18px;
+    text-align: center;
+    background-color: black;
+    color: rgb(230, 230, 230);
+    text-transform: capitalize;
+
+}
+
+
+.viewmore{
+    color: rgb(202, 202, 202);
+    text-transform: capitalize;
+    background-color: black;
+    padding:3%;
+    border-radius: 5%;
+    box-shadow: 0px 2px 3px rgb(107, 107, 107);
+    
+}
+.viewmore:hover {
+    color: white;
+    
+    background-color: rgb(107, 2, 2);
+    text-decoration: none;
+}
