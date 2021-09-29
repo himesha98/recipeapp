@@ -71,7 +71,7 @@
 }
 .viewmore:hover {
     color: white;
-    
+    text-decoration: none;
     background-color: rgb(107, 2, 2);
     
 }
